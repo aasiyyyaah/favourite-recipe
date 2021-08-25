@@ -1,0 +1,43 @@
+img {
+    width: 50%;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1597787427732-52c37d4f5767?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGJyb3dufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80) ;
+}
+
+h3{
+    color: rgba(209, 133, 83, 0.76);
+    font-family: initial;
+    font-size: large;
+}
+
+dt{
+    color: lightgoldenrodyellow;
+    font-family: monospace;
+    font-size: small;
+}
+
+.newbackground {
+background-color:rgb(180, 109, 61);
+margin: 7%;
+padding: 9%;
+border: 6%;
+}
+h2{
+    margin: 10%;
+font-family: fantasy ;
+font-weight: lighter ;
+font-size: larger;
+font-style: oblique;
+}
+
+h1 {
+    font-family: fantasy;
+    font: x-large;
+    text-align: center;
+
+}
+
+p {font-weight: bold;
+    text-align: center}
